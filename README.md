@@ -1,3 +1,5 @@
+<style>.email,.xmpp{content: "_not_a_real_address_@xmpp.jp";display: none;}</style>
+
 <a href="https://komarev.com/ghpvc/?username=sealldeveloper">
   <img align="right" src="https://komarev.com/ghpvc/?username=sealldeveloper&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </a>
@@ -39,7 +41,7 @@
 <p>
  - Plays CTFs regularly with [thehackerscrew](https://www.thehackerscrew.team/) and [IrisSec](https://irissec.xyz/)
  - Aiming to be a Red Team professional
- - Reach me at <td>se<span>al&#x40;<script>//</span><span>adiw145@outlook.com</span></script><span class="email">conta_ct123</span>se<span class="xmpp">realdeveloper@sj.ms</span>a<span>ll&period;<span style="display: none;"><a class="email">email(.)</a>.jp<span></span>com</span>&#100;&#101;&#118;</span></span></td>
+ - Reach me at <td>se<span>al&#x40;<span class="email">conta_ct123</span>se<span class="xmpp">realdeveloper@sj.ms</span>a<span>ll&period;<span style="display: none;"><a class="email">email(.)</a>.jp<span></span>com</span>&#100;&#101;&#118;</span></span></td>
         <td>Email (PGP Encrypt if needed)</td>
  - AMA [here](https://github.com/sealldeveloper/sealldeveloper/issues)
 </p>
