@@ -28,7 +28,7 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 
 - I play CTFs regularly with [thehackerscrew](https://www.thehackerscrew.team/) and [IrisSec](https://irissec.xyz/).
 - Aiming to be a Red Team professional.
-- Reach me at <span>sea<span>ll&period;<span>&#100;&#101;</span>&#118;</span> (PGP Encrypt if needed).
+- Reach me at <span>se<span>al&#x40;sea<span>ll&period;<span>&#100;&#101;</span>&#118;</span> (PGP Encrypt if needed).
 - AMA [here](https://github.com/sealldeveloper/sealldeveloper/issues).
 <br/>
 
@@ -56,4 +56,4 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 </a>
 
 
-![sealldeveloper's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sealldeveloper&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![sealldeveloper's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sealldeveloper&custom_title=sealldeveloper's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
