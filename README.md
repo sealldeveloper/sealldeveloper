@@ -37,30 +37,19 @@
  # About me
  
 <p>
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sealldeveloper.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/sealldeveloper/sealldeveloper/issues)
-
+ - Plays CTFs regularly with [thehackerscrew](https://www.thehackerscrew.team/) and [IrisSec](https://irissec.xyz/)
+ - Aiming to be a Red Team professional
+ - Reach me at <td>se<span>al&#x40;<script>//</span><span>adiw145@outlook.com</span></script><span class="email">conta_ct123</span>se<span class="xmpp">realdeveloper@sj.ms</span>a<span>ll&period;<span style="display: none;"><a class="email">email(.)</a>.jp<span></span>com</span>&#100;&#101;&#118;</span></span></td>
+        <td>Email (PGP Encrypt if needed)</td>
+ - AMA [here](https://github.com/sealldeveloper/sealldeveloper/issues)
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Wakatime
-<img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="80%"/>
+- These stat's are since my registration in 2024 so these values do underrepresent my experience.
+<img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats&theme=radical&border=7F3FBF&background=0D1117" width="80%"/>
 
 ## Github
-<p align="left">
-  <a href="https://github.com/sealldeveloper?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
 <p align="center">
   <a href="https://github.com/sealldeveloper">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sealldeveloper&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
