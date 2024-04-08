@@ -51,8 +51,6 @@
 
 ## Wakatime
 <img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats&theme=codeSTACKr" width="80%"/>
-    <img alt="sealldeveloper's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sealldeveloper&show_icons=true&count_private=true&theme=codeSTACKr" width="40%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sealldeveloper&theme=codeSTACKr" alt="sealldeveloper's GitHub streak" width="40%"/>
 
 ## Github
 <p align="left">
@@ -71,13 +69,13 @@
 
 <p align="center">
   <a href="https://github.com/sealldeveloper">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sealldeveloper&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sealldeveloper&theme=radical" alt="sealldeveloper's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/sealldeveloper"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sealldeveloper&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/sealldeveloper"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sealldeveloper&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/sealldeveloper"><img alt="sealldeveloper's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sealldeveloper&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/sealldeveloper"><img alt="sealldeveloper's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sealldeveloper&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
