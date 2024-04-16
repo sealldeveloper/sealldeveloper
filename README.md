@@ -32,28 +32,24 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 - AMA [here](https://github.com/sealldeveloper/sealldeveloper/issues).
 <br/>
 
-## Wakatime
-- These stat's are since my registration in 2024 so these values do underrepresent my experience.
-<img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats&theme=radical&border=7F3FBF&background=0D1117" width="80%"/>
+## Hacking Statistics
 
-## Github
+- Top 5 player on [SecDim](https://id.secdim.com/sealldeveloper) since ~04/2024 (Peak: 4th)
+- Top 10k on [TryHackMe](https://tryhackme.com/p/SSSEAL) since ~2023 (Peak: Top 1k)
+- Top 900 on [HackTheBox](https://app.hackthebox.com/users/514384) since ~03/2024 (Peak: 845th)
 <p align="center">
-  <a href="https://github.com/sealldeveloper">
+  <a href="https://tryhackme.com/p/SSSEAL" target="_blank" rel="noreferrer noopener">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SSSEAL.png" alt="TryHackMe">
+  </a>
+</p>
+
+## Programming Statistics
+- These statistics on Wakatime are since my registration in 2024 so these values do underrepresent my experience.
+<br>
+<p align="center">
+  <img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats&theme=radical&border=7F3FBF&background=0D1117" width="80%"/>
+  <a href="https://github.com/sealldeveloper" target="_blank" rel="noreferrer noopener">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sealldeveloper&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sealldeveloper">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sealldeveloper&theme=radical" alt="sealldeveloper's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/sealldeveloper"><img alt="sealldeveloper's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sealldeveloper&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/sealldeveloper"><img alt="sealldeveloper's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sealldeveloper&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![sealldeveloper's Graph](https://github-readme-activity-graph.vercel.app/graph?username=sealldeveloper&custom_title=sealldeveloper's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
