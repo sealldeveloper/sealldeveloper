@@ -59,6 +59,9 @@ AP9Fo2jcmy898kcRt784rb1hBcMEORZD6rGV72giF7cPQgD/YUuvFWCHgTp6Ws+h
     <img src="https://tryhackme-badges.s3.amazonaws.com/SSSEAL.png" alt="TryHackMe">
   </a>
 </p>
+﻿<p align="center">
+    <img src="https://www.hackthebox.com/badge/image/514384"/>
+ </p >
 
 ## Programming Statistics
 - These statistics on Wakatime are since my registration in 2024 so these values do underrepresent my experience.
