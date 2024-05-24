@@ -62,6 +62,9 @@ AP9Fo2jcmy898kcRt784rb1hBcMEORZD6rGV72giF7cPQgD/YUuvFWCHgTp6Ws+h
 ﻿<p align="center">
     <img src="https://www.hackthebox.com/badge/image/514384"/>
  </p >
+ <p align="center">
+   <img src="https://id.secdim.com/id/account/user/sealldeveloper/widget.svg"/>
+   </p>
 
 ## Programming Statistics
 - These statistics on Wakatime are since my registration in 2024 so these values do underrepresent my experience.
