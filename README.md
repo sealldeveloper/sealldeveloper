@@ -6,23 +6,25 @@
 [![wakatime](https://wakatime.com/badge/user/018eac80-b50a-4086-8507-760158818648.svg)](https://wakatime.com/@018eac80-b50a-4086-8507-760158818648)
 
 <!-- Intro  -->
-<h3 align="center">
-  <b><a target="_blank" href="https://seall.dev">sealldev</a></b>
-</h3>
-
-
-<p align="center">
- <a href="https://seall.dev" target="blank">
-  <img src="./assets/website.png" alt="seall.dev" />
+<div align="center">
+  <img src="https://github.com/sealldeveloper/sealldeveloper/assets/120470330/700c5099-ce08-42ef-bc10-82407a5a94f0"/>
+  <br>
+  <a href="https://seall.dev" target="_blank">
+  <img src="https://img.shields.io/badge/seall.dev-aa02d8?style=for-the-badge&logo=About.me&logoColor=white"/>
  </a>
  <a href="https://twitter.com/sealldev" target="_blank">
-  <img src="./assets/twitter.svg" />
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
  </a>
-</p>
-<br />
+  <a href="https://app.hackthebox.com/users/514384" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"/>
+  </a>
+  <a href="https://tryhackme.com/p/SSSEAL" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-595959?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+</div>
 
 <!-- About Section -->
- # About me
+<h1 align="center">〈 𝚠𝚑𝚘𝚊𝚖𝚒 〉</h1>
  
 I have been invested in cybersecurity since 14 and pursuing it as a career since. I've learnt in-depth about the details of Mifare and RFID cards, web penetration testing, and I'm striving to get my CRTO and learn about RF hacking. I also enjoy forensics and learning CyberSecurity in general.
 
@@ -32,7 +34,49 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 - Reach me at <span>se<span>al&#x40;sea<span>ll&period;<span>&#100;&#101;</span>&#118;</span> (PGP Encrypt if needed).
 - AMA [here](https://github.com/sealldeveloper/sealldeveloper/issues).
 
-### Public PGP Key
+<h2 align="center">〈 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 〉</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-0448db?style=for-the-badge&logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
+</div>  
+
+<h2 align="center">〈 𝚑𝚊𝚌𝚔𝚒𝚗𝚐 〉</h2>
+
+- Top 3 player on [SecDim](https://id.secdim.com/sealldeveloper) since 25/04/2024 (Peak: 3rd)
+- Top 10k on [TryHackMe](https://tryhackme.com/p/SSSEAL) since ~2023 (Peak: Top 1k)
+- Top 15 in Australia on [HackTheBox](https://app.hackthebox.com/users/514384) since 24/05/2024 (Peak: 14th)
+<p align="center">
+  <a href="https://tryhackme.com/p/SSSEAL" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SSSEAL.png" alt="TryHackMe">
+  </a>
+  <a href="https://app.hackthebox.com/users/514384" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+    <img src="https://www.hackthebox.com/badge/image/514384" alt="HackTheBox"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://id.secdim.com/sealldeveloper" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
+    <img src="https://id.secdim.com/id/account/user/sealldeveloper/widget.svg" alt="SecDim" />
+  </a>
+ </p>
+
+<h2 align="center">〈 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 〉</h2>
+
+- These statistics on Wakatime are since my registration in 2024 so these values do underrepresent my experience.<br>
+<p align="center">
+  <img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats&theme=radical&border=7F3FBF&background=0D1117" width="80%"/>
+  <a href="https://github.com/sealldeveloper" target="_blank" rel="noreferrer noopener">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sealldeveloper&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<h2 align="center">(っ◔◡◔)っ ♥ pgp ♥</h2>
+
 - Fingerprint: <code>58B6 801E C222 533F F111  9A54 1D9E 2F16 46A4 81C0</code>
 ````
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -47,31 +91,4 @@ AP9Fo2jcmy898kcRt784rb1hBcMEORZD6rGV72giF7cPQgD/YUuvFWCHgTp6Ws+h
 2a0c0i2vBYr4wufvr0KGxpzIsgg=
 =Ur7J
 -----END PGP PUBLIC KEY BLOCK-----       
-````    
-
-## Hacking Statistics
-
-- Top 3 player on [SecDim](https://id.secdim.com/sealldeveloper) since 25/04/2024 (Peak: 3rd)
-- Top 10k on [TryHackMe](https://tryhackme.com/p/SSSEAL) since ~2023 (Peak: Top 1k)
-- Top 15 in Australia on [HackTheBox](https://app.hackthebox.com/users/514384) since 24/05/2024 (Peak: 14th)
-<p align="center">
-  <a href="https://tryhackme.com/p/SSSEAL" target="_blank" rel="noreferrer noopener">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SSSEAL.png" alt="TryHackMe">
-  </a>
-</p>
-﻿<p align="center">
-    <img src="https://www.hackthebox.com/badge/image/514384"/>
- </p >
- <p align="center">
-   <img src="https://id.secdim.com/id/account/user/sealldeveloper/widget.svg"/>
-   </p>
-
-## Programming Statistics
-- These statistics on Wakatime are since my registration in 2024 so these values do underrepresent my experience.
-<br>
-<p align="center">
-  <img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats&theme=radical&border=7F3FBF&background=0D1117" width="80%"/>
-  <a href="https://github.com/sealldeveloper" target="_blank" rel="noreferrer noopener">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sealldeveloper&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
+````  
