@@ -21,6 +21,9 @@
   <a href="https://tryhackme.com/p/SSSEAL" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-595959?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/noah-cooper-5442ab309/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 <!-- About Section -->
