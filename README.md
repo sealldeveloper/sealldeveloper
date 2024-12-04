@@ -70,7 +70,7 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 
 <h2 align="center">〈 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 〉</h2>
 
-- These statistics on Wakatime are since my registration in 2024 so these values do underrepresent my experience.<br>
+- These statistics on Wakatime are since my registration in 2024 (and reset each year) so these values do underrepresent my experience.<br>
 <p align="center">
   <img alt="sealldeveloper's Top Languages" width="80%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sealldeveloper&custom_title=wakatime%20language%20stats%20(past%20year)&layout=compact&theme=radical&border=7F3FBF&background=0D1117&hide=INI" width="80%"/>
   <a href="https://github.com/sealldeveloper" target="_blank" rel="noreferrer noopener">
