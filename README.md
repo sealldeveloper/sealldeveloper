@@ -54,6 +54,7 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 - Top 3 player on [SecDim](https://id.secdim.com/sealldeveloper) since 25/04/2024 (Peak: 3rd)
 - Top 10k on [TryHackMe](https://tryhackme.com/p/SSSEAL) since ~2023 (Peak: Top 1k)
 - Top 20 in Australia on [HackTheBox](https://app.hackthebox.com/users/514384) since 25/06/2024 (Peak: 5th)
+- Solved a buncha challs on [PicoCTF](https://play.picoctf.org/users/sealldeveloper) one weekend
 <p align="center">
   <a href="https://tryhackme.com/p/SSSEAL" target="_blank" rel="noreferrer noopener" style="display: inline-block;">
     <img src="https://tryhackme-badges.s3.amazonaws.com/SSSEAL.png" alt="TryHackMe">
