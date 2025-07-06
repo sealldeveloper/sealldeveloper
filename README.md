@@ -37,18 +37,6 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 - Reach me at <span>se<span>al&#x40;sea<span>ll&period;<span>&#100;&#101;</span>&#118;</span> (PGP Encrypt if needed).
 - AMA [here](https://github.com/sealldeveloper/sealldeveloper/issues).
 
-<h2 align="center">〈 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 〉</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Wireshark-0448db?style=for-the-badge&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
-</div>  
-
 <h2 align="center">〈 𝚑𝚊𝚌𝚔𝚒𝚗𝚐 〉</h2>
 
 - Top 3 player on [SecDim](https://id.secdim.com/sealldeveloper) since 25/04/2024 (Peak: 3rd)
