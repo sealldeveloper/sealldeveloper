@@ -69,18 +69,7 @@ I have been invested in cybersecurity since 14 and pursuing it as a career since
 
 <h2 align="center">(っ◔◡◔)っ ♥ pgp ♥</h2>
 
-- Fingerprint: <code>58B6 801E C222 533F F111  9A54 1D9E 2F16 46A4 81C0</code>
-````
------BEGIN PGP PUBLIC KEY BLOCK-----
-mDMEZIpHihYJKwYBBAHaRw8BAQdAA03ymZUrvC1WMxyFt30y3z31YXhGHuAa219z
-crbkRR20CHNlYWxsZGV2iJkEExYKAEEWIQRYtoAewiJTP/ERmlQdni8WRqSBwAUC
-ZIpHigIbAwUJA8PhlgULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRAdni8W
-RqSBwGEiAQDATXMAm7Pm8XWW/2JMXw/Uzcd4GuyhpfNwjgEHK336lQEA3vJjE56g
-mOTJrjDme7tXEnCo8Ph6kEbPf2ggMtu/KwC4OARkikeKEgorBgEEAZdVAQUBAQdA
-0W7uQdQhtq4rJ4KbVE3fNYqCygCBmUaQREGweHB52n0DAQgHiH4EGBYKACYWIQRY
-toAewiJTP/ERmlQdni8WRqSBwAUCZIpHigIbDAUJA8PhlgAKCRAdni8WRqSBwM+O
-AP9Fo2jcmy898kcRt784rb1hBcMEORZD6rGV72giF7cPQgD/YUuvFWCHgTp6Ws+h
-2a0c0i2vBYr4wufvr0KGxpzIsgg=
-=Ur7J
------END PGP PUBLIC KEY BLOCK-----       
-````  
+```bash
+curl 'https://seall.dev/public-key.asc' | gpg --import
+```
+<a href="https://seall.dev/proof.txt" targer="_blank" rel="noreferrer noopener">why did my key change</a>
